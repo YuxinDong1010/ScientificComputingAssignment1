@@ -1,4 +1,4 @@
-# Comples System Simulation course project
+# Scientific Computing course project
 
 ## Getting started
 
